@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/App.css';
 const App = () => {
   const [titles,setTitles]=useState({
-  button:"polo"'
+  button:"polo",
     h1:"Marco",
   });
   const swap=()=>{
