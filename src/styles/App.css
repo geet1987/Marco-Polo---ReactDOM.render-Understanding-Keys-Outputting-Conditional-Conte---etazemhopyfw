@@ -1,8 +1,10 @@
 #marco-polo{
-color:black;
+text-color:"black";
+  justify-content:"center";
 
 }
 #marco-polo-toggler{
-color:black;
+text-color:"black";
+  justify-content:"center";
 }
-export default App;
+//export default App;
